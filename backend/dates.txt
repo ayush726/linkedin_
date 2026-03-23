@@ -1,0 +1,20 @@
+dict_keys(['title', 'link', 'snippet', 'position'])
+Date field: None
+Snippet: And over the coming years that followed that date,
+
+dict_keys(['title', 'link', 'snippet', 'position'])
+Date field: None
+Snippet: When #Google first came out, did you "google yours
+
+dict_keys(['title', 'link', 'snippet', 'position'])
+Date field: None
+Snippet: Last week I shared my first (and only) AI-written 
+
+dict_keys(['title', 'link', 'snippet', 'position'])
+Date field: None
+Snippet: So if you feel under pressure to follow every sing
+
+dict_keys(['title', 'link', 'snippet', 'position'])
+Date field: None
+Snippet: My take is that if AI exists anywhere in your tech
+
